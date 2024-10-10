@@ -19,7 +19,8 @@
 1) **James: Project Manager/Sprite Designer**
 1) **Mitch: Assistant Manager/Sprite Designer**
 1) **Nick: Programming**
-1) **Conner: Storyline Dev/Game Tester**
+1) **Conner: Questions(?)/Game Tester**
+1) **Dylan: Storyline Dev**
 
 ## 2b) Possible Project Ideas
 1) Top down/2d game/idle game (simple, could polish it and make it look nice)
