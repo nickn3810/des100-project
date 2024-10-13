@@ -15,12 +15,13 @@
 *(please keep in mind that this file may be updated, and some information may not be 100% correct, 100% of the time, especially in terms of project updates, members, roles, etc.)*
 
 ## 2a) Team Members
-1) **Jackson: Scribe**
-1) **James: Project Manager/Sprite Designer**
-1) **Mitch: Assistant Manager/Sprite Designer**
-1) **Nick: Programming**
-1) **Conner: Questions(?)/Game Tester**
-1) **Dylan: Storyline Dev**
+1) James - Project Manager
+1) Mitch - Sound Designer, Art Designer, Troubleshooter
+1) Conner - Storyline Creator, Writing
+1) Dylan - Talk Host, Entertainment
+1) Nick - Coder, Brainstormer
+1) Noah - Tester, Troubleshooter
+1) Jackson - Scribe
 
 ## 2b) Possible Project Ideas
 1) Top down/2d game/idle game (simple, could polish it and make it look nice)
