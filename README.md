@@ -15,7 +15,7 @@
 *(please keep in mind that this file may be updated, and some information may not be 100% correct, 100% of the time, especially in terms of project updates, members, roles, etc.)*
 
 ## 2a) Team Members
-1) James - Project Manager
+1) James - Project Manager, Art Designer, Troubleshooter
 1) Mitch - Sound Designer, Art Designer, Troubleshooter
 1) Conner - Storyline Creator, Writing
 1) Dylan - Talk Host, Entertainment
