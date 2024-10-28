@@ -30,6 +30,9 @@
 
 1) Platformer game (like mario, limited knowledge, less likely to be chosen)
 
+# 3) Information/Slightly Unused GitHub
+Hello, as you may have noticed not a lot of updates have been posted to this GitHub, this is because of our team working hard to complete the little, short game in time for the due date. The game is now complete, and you can play it **[Here, on our itch.io.](https://nickn3810.itch.io/trashed)**
+
 # Additional Information
 **More info will be added to this file soon to help your understanding on our project. Make sure to check back soon!**
 
